@@ -13,7 +13,7 @@ The goal of this lab is to develop skills commonly used in cybersecurity roles, 
 
 ---
 
-# 🏗️ Lab Environment
+# Lab Environment
 
 ## Tools Used
 
@@ -24,7 +24,7 @@ The goal of this lab is to develop skills commonly used in cybersecurity roles, 
 
 ---
 
-# 🔍 Scanning Techniques Practiced
+# Scanning Techniques Practiced
 
 ## Host Discovery
 
@@ -62,7 +62,7 @@ Collected information about:
 
 ---
 
-# 🧪 Lab Exercises
+# Lab Exercises
 
 ## Network Discovery
 
@@ -108,7 +108,7 @@ Practiced:
 
 ---
 
-# 🔐 Security Concepts
+# Security Concepts
 
 Skills demonstrated:
 
@@ -119,7 +119,7 @@ Skills demonstrated:
 
 ---
 
-# 📸 Screenshots
+# Screenshots
 
 Future additions:
 
@@ -130,18 +130,7 @@ Future additions:
 
 ---
 
-# 🎯 Skills Demonstrated
-
-✅ Nmap  
-✅ Network Discovery  
-✅ Port Scanning  
-✅ Service Enumeration  
-✅ Security Assessment  
-✅ Linux Command Line  
-
----
-
-# 🚀 Future Improvements
+# Future Improvements
 
 - Add vulnerability scanning results
 - Compare scan results before/after hardening
