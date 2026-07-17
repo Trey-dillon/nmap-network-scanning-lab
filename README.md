@@ -121,12 +121,43 @@ Skills demonstrated:
 
 # Screenshots
 
-Future additions:
+## 1. Host Discovery
 
-- Nmap scan results
-- Terminal output
-- Network diagrams
-- Lab documentation
+![Host Discovery](screenshots/Nmap%201%20host%20directory.png)
+
+Used Nmap's host discovery capabilities to identify active devices within the lab network. This scan provides a quick inventory of reachable systems before performing more detailed enumeration.
+
+---
+
+## 2. Basic TCP Port Scan
+
+![Basic TCP Port Scan](screenshots/Nmap%202%20Basic%20TCP%20Port%20Scan.png)
+
+Performed a default TCP port scan to identify open ports and the services exposed by the target system. This establishes a baseline understanding of the target's network footprint.
+
+---
+
+## 3. Service Version Detection
+
+![Service Version Detection](screenshots/Nmap%203%20Service%20Version%20Detection.png)
+
+Used the `-sV` option to detect service versions running on open ports. Identifying software versions helps determine potential vulnerabilities and supports system inventory.
+
+---
+
+## 4. Operating System Detection
+
+![Operating System Detection](screenshots/Nmap%204%20Operating%20System%20Detection.png)
+
+Performed operating system fingerprinting using Nmap's OS detection capabilities to estimate the target machine's operating system based on network characteristics.
+
+---
+
+## 5. Aggressive Scan
+
+![Aggressive Scan](screenshots/Nmap%205%20Aggressive%20Scan.png)
+
+Executed an aggressive scan (`-A`) combining service detection, operating system fingerprinting, default NSE scripts, and traceroute to gather comprehensive information about the target system.
 
 ---
 
